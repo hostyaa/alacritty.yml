@@ -1,0 +1,12 @@
+# Changing font scale
+
+env:
+  WINIT_X11_SCALE_FACTOR: "1"
+
+# Text Padding
+
+window:
+  padding:
+    x: 20
+    y: 20
+
